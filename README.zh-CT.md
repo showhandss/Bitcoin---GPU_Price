@@ -1,9 +1,13 @@
 [English](./README.md) |  [简体中文](./README.zh-CN.md) | 繁體中文
-#Bitcoin~GPU 虚拟货币矿潮对GPU的影响以及社会反响
+<h1 align="center">Bitcoin~GPU 虛擬貨幣礦潮對GPU的影響以及社會反響</h1>
+
+<div align="center">
+
+這是我組的資料探勘報告，意在研究2008~2021年之間挖礦導致的計算晶元緊缺問題
 
 ![](./Bitcoin candle_line.png)
 
-###這是我組的資料探勘報告，意在研究2008~2021年之間挖礦導致的計算晶元緊缺問題
+</div>
 
 ##研究步驟
 
