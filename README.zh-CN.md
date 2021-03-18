@@ -19,3 +19,4 @@
 - 6、最后我们会做出如同下图大事记一样的图（背景为比特币的价格曲线和显卡的价格曲线，前面是我们分析出的结果/社会评价）。
 
 ![Mining history](https://github.com/showhandss/Bitcoin-GPU_prise/raw/master/640-4.jpeg)
+
