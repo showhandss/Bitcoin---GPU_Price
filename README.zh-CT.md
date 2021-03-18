@@ -5,7 +5,7 @@
 
 這是我組的資料探勘報告，意在研究2008~2021年之間挖礦導致的計算晶元緊缺問題
 
-![]("https://github.com/showhandss/Bitcoin-GPU_prise/raw/master/Bitcoin candle_line.png")
+![]("https://github.com/showhandss/Bitcoin-GPU_prise/raw/master/Bitcoin_candle_line.png")
 
 </div>
 
