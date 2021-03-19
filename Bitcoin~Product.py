@@ -13,7 +13,7 @@ from cycler import cycler# 用于定制线条颜色
 #time
 import datetime as datetime
 
-bitcoin = pd.read_csv('.\Bitcoin_value.csv',index_col=0,parse_dates=True)
+bitcoin = pd.read_csv('.\\bit_price_day.csv',index_col=0,parse_dates=True)
 bitcoin.index.name = 'Date'
 bitcoin.shape
 
@@ -78,4 +78,4 @@ mpf.plot(bitcoin.tail(1500),
          **kwargs,
          style=STYLE, 
          show_nontrading=False,
-         savefig='Bitcoin candle_line.png')
+         savefig='Bitcoin_candle_line_day.png')
