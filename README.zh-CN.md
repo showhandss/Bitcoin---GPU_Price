@@ -5,7 +5,7 @@
 
 这是我组的资料探勘报告，意在研究2008~2021年之间挖矿导致的计算芯片紧缺问题
 
-![Bitcoin_candle_line](https://github.com/showhandss/Bitcoin-GPU_prise/raw/master/Bitcoin_candle_line.png)
+![Bitcoin_candle_line](https://github.com/showhandss/Bitcoin-GPU_prise/raw/master/Bitcoin_candle_line_day.png)
 
 </div>
 
