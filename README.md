@@ -12,7 +12,7 @@ This is the data exploration report of our group, which aims to study the shorta
 ## Research steps
 
 - 1.Explore the price of Bitcoin BTC and Ethereum ETH from 2009 to 2021.
-- 2.Explore the price of GPU in 2014-2021 (take GTX1060, GTX1660Ti, RTX2060, RTX3060 as the main research object).      **<- Progressing**
+- 2.Explore the price of GPU in 2014-2021 (take NVIDIA GTX1060, GTX1660TI, RTX2060, RTX3060, AMD RX5600, RX580, RX480 as the main research object).      **<- Progressing**
 - 3.Analyze the data of the above two and make corresponding charts (In this part, I will think more dimensions and consider how to get more necessary content).
 - 4.At the same time, the hot words related to mining in each year from 2014 to 2021 were searched (the evaluation of gamers, miners, melon-eating people, etc.), and the hot word cloud would be made. 
 - 5.In addition, if we have enough time or lack of content, we will add the discussion on BTH, and analyze its differences with Bitcoin and social evaluation.
