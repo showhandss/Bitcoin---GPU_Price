@@ -1,4 +1,4 @@
-English | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-CT.md)
+**English** | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-CT.md)
 <h1 align="center">Bitcoin~GPU  The impact of virtual currency mining tide on GPU and social repercussions</h1>
 
 <div align="center">

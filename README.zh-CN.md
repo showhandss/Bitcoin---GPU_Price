@@ -1,4 +1,4 @@
-[English](./README.md) | 简体中文 | [繁體中文](./README.zh-CT.md)
+[English](./README.md) | **简体中文** | [繁體中文](./README.zh-CT.md)
 <h1 align="center">Bitcoin~GPU 虚拟货币矿潮对GPU的影响以及社会反响</h1>
 
 <div align="center">
