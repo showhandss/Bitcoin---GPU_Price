@@ -34,8 +34,8 @@ kwargs = dict(
 	title='\nBitcoin\'s candle_line',    
 	ylabel='OHLC Candles', 
 	ylabel_lower='Shares\nTraded Volume', 
-	figratio=(50, 10), 
-	figscale=1,
+	figratio=(40, 10), 
+	figscale = 2,
     warn_too_much_data = 3000)
 
 # 设置marketcolors
@@ -74,7 +74,7 @@ mpl.rcParams['axes.prop_cycle'] = cycler(
 # 设置线宽
 mpl.rcParams['lines.linewidth'] = .5
 
-mpf.plot(bitcoin.tail(1500), 
+mpf.plot(bitcoin.tail(1900), 
          **kwargs,
          style=STYLE, 
          show_nontrading=False,
